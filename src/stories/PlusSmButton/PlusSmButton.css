@@ -1,0 +1,116 @@
+/* PlusSmButton specific styles go here */
+
+.plus-circle {
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color: white;
+    margin-right: 8px;
+  }
+  
+  .plus-sm-button {
+    font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    border: 0;
+    border-radius: 6px;
+    padding: 12px 28px;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+    font-size: 16px;
+  }
+  
+  .plus-sm-button--small {
+    font-size: 10px;
+    padding: 5px 16px;
+  }
+  
+  .plus-sm-button--medium {
+    font-size: 14px;
+    padding: 7px 20px;
+  }
+  
+  .plus-sm-button--large {
+    font-size: 16px;
+    padding: 10px 24px;
+  }
+  
+  .plus-sm-button--primary {
+    color: white;
+    background-color: #009aee;
+    transition: background-color 0.3s;
+  }
+  
+  .plus-sm-button--primary:hover {
+    background-color: #1484cd;
+  }
+  
+  .plus-sm-button--primary--false {
+    color: #1484cd;
+    background-color: white;
+    transition: background-color 0.3s;
+    border: 1px solid #1484cd;
+  }
+  
+  .plus-sm-button--primary--false:hover {
+    background-color: #c6f1ff;
+    color: #637381;
+  }
+  
+  .plus-sm-button--secondary {
+    color: white;
+    background-color: #25cba1;
+    transition: background-color 0.3s;
+  }
+  
+  .plus-sm-button--secondary:hover {
+    background-color: #1eaa87;
+  }
+  
+  .plus-sm-button--secondary--false {
+    color: #1eaa87 !important;
+    background-color: white;
+    transition: background-color 0.3s;
+    border: 1px solid #1eaa87;
+  }
+  
+  .plus-sm-button--secondary--false:hover {
+    background-color: #c2f5e9;
+  }
+  
+  .plus-sm-button--tertiary {
+    color: white;
+    background-color: #111928;
+    transition: background-color 0.3s;
+  }
+  
+  .plus-sm-button--tertiary:hover {
+    background-color: #637381;
+  }
+  
+  .plus-sm-button--tertiary--false {
+    background-color: white;
+    color: #111928 !important;
+    transition: background-color 0.3s;
+    border: 1px solid #111928;
+  }
+  
+  .plus-sm-button--tertiary--false:hover {
+    background-color: #dee2e6;
+  }
+  
+  .plus-sm-button--disabled {
+    color: #6b7280;
+    background-color: #e5e7eb;
+    cursor: not-allowed;
+  }
+  
+  .plus-sm-button--disabled:hover {
+    background-color: #e5e7eb;
+  }
+  

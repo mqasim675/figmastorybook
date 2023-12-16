@@ -1,0 +1,55 @@
+/* GrayColor.css */
+.gray-color-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gray-color-1 {
+  background-color: #f9fafb; /* Gray Color 1 */
+  color: #333; /* Text color */
+  padding: 10px;
+  margin: 5px;
+}
+
+.gray-color-2 {
+  background-color: #f3f4f6; /* Gray Color 2 */
+  color: #333; /* Text color */
+  padding: 10px;
+  margin: 5px;
+}
+
+.gray-color-3 {
+  background-color: #e5e7eb; /* Gray Color 3 */
+  color: #333; /* Text color */
+  padding: 10px;
+  margin: 5px;
+}
+
+.gray-color-4 {
+  background-color: #dee2e6; /* Gray Color 4 */
+  color: #333; /* Text color */
+  padding: 10px;
+  margin: 5px;
+}
+
+.gray-color-5 {
+  background-color: #ced4da; /* Gray Color 5 */
+  color: #333; /* Text color */
+  padding: 10px;
+  margin: 5px;
+}
+
+.gray-color-6 {
+  background-color: #ced4da; 
+  color: #333; 
+  padding: 10px;
+  margin: 5px;
+}
+
+.gray-color-7 {
+  background-color: #ced4da; 
+  color: #333; 
+  padding: 10px;
+  margin: 5px;
+}

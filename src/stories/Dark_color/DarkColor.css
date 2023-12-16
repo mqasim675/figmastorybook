@@ -1,0 +1,62 @@
+/* DarkColor.css */
+.dark-color-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dark-color-1 {
+  background-color: #111928; /* Dark Color 1 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dark-color-2 {
+  background-color: #1f2a37; /* Dark Color 2 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dark-color-3 {
+  background-color: #374151; /* Dark Color 3 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dark-color-4 {
+  background-color: #4b5563; /* Dark Color 4 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dark-color-5 {
+  background-color: #6b7280; /* Dark Color 5 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dark-color-6 {
+  background-color: #9ca3af; /* Dark Color 6 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dark-color-7 {
+  background-color: #d1d5db; /* Dark Color 7 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dark-color-8 {
+  background-color: #E5E7EB; /* Dark Color 8 */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+}

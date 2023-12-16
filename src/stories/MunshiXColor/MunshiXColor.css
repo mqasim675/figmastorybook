@@ -1,0 +1,49 @@
+/* MunshiXColor.css */
+.munshiX-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.munshiX-secondary {
+  background-color: #25cba1; 
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  height: 50px;
+  width: 70px;
+}
+
+.munshiX-primary {
+  background-color: #009aee; /* Primary Color */
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  height: 50px;
+  width: 70px;
+}
+
+.munshiX-primary-text {
+  background: #637381; /* Primary Text Color */
+  margin: 5px;
+  height: 50px;
+  width: 70px;
+  color: white;
+}
+
+.munshiX-secondary-text {
+  color: xt Color white; /* Secondary Text Color */
+  margin: 5px;
+  height: 50px;
+  width: 70px;
+  background-color: #8899a8;
+}
+
+.munshiX-stroke {
+  border: 1px solid #dfe4ea; /* Stroke Color */
+  padding: 10px;
+  margin: 5px;
+  height: 50px;
+  width: 70px;
+  background-color: #dfe4ea;
+}
